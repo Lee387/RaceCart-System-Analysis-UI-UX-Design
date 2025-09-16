@@ -1,4 +1,4 @@
-# RaceCart-UI-UX-System-Analysis-Design
+# RaceCart-System-Analysis-UI-UX-Design
 
 ## About
 Designed the user and admin interfaces for RacerCart, a mobile application for managing go-kart rentals. This project extended beyond interface design into comprehensive system analysis and modeling.
