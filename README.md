@@ -8,3 +8,6 @@ To deliver a robust and scalable system design that supports the full rental pro
 
 ## Process
 Produced key deliverables including activity diagrams, use case descriptions, system sequence diagrams, system architecture, database design, and class diagrams. Additional outputs included first-cut and three-layer sequence diagrams, communication diagrams, CRC cards, and package diagrams, ensuring a well-documented and structured design for implementation.
+
+## UI-UX Design Link
+https://www.figma.com/design/N7TFZf8af4WQReKBMFG0jY/RaceCart?node-id=0-1&t=tqim1hbZIEMxojyr-1
